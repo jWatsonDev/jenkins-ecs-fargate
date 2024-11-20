@@ -1,7 +1,7 @@
 # Deploy Jenkins to ECS on Fargate
 
 ## Description
-This project uses Terraform to deploy Jenkins to Amazon ECS on Fargate. Jenkins is an open-source automation server that helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
+This project uses Terraform to deploy Jenkins to Amazon ECS on Fargate. Jenkins is an open-source automation server that helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery. 
 
 ## Prerequisites
 Before you begin, ensure you have the following:
@@ -11,6 +11,8 @@ Before you begin, ensure you have the following:
 - An AWS Network stamped out. You can use the following repository to set up your network: [AWS Network Stamp Out](https://github.com/jWatsonDev/aws-network-stamp-out)
 
 ## Installation
+
+- Note: A guided tutorial for [this project is located on DEV.to](https://dev.to/jay_watson_6587c40fd413dc/standup-serverless-jenkins-on-fargate-with-terraform-part-2-ecs-deployment-1mii).
 
 1. **Clone the repository:**
     ```bash
